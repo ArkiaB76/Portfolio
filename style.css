@@ -1,0 +1,21 @@
+ section.nav{ 
+    display: flex;
+    text-align: right;
+    font-style: normal;
+    text-decoration: none;
+    color: aquamarine;
+    white-space: 10px;
+ }
+li{
+    display: inline-block;
+    color: aquamarine;
+    text-decoration: none;
+    width: 100px;
+    text-align: right;
+    text-align: center;
+}
+.nav{
+    display: flex;
+    justify-content: right;
+    color: aquamarine;
+}
